@@ -1,12 +1,18 @@
 # Digital Golf Range Finder
 
-`Note: Code was created in 2022, but was held privately until now. `
+```
+Note: Code was created in 2022, but was held privately until now.
+```
 
 Welcome everyone to my attempt at creating a golf rangefinder using just an image! My name is Sergio Quijano, and I was a Division 1 golf athlete. Funny enough, my freshman year of college, I came to the US to play golf competitively at Mount St. Mary's University. Unfortunately, I had to endure my first year of college golf without a rangefinder. Now, I know it's not mandatory, but it's definitely a handy tool. At that time, I was just starting my Computer Science major and knew absolutely nothing about coding.
 
 Fast forward a couple of years (with a rangefinder in hand!), and towards the end of my junior year, I decided to put my skills to the test and try to build something similar to a rangefinder using only a photo taken from your phone. This project was born out of that ambition. Spoiler alert: There's a good reason why golf rangefinders and GPS apps exist. However, the process was very fun and if anyone is curious enough can look at the code and see what I did. 
 
-`Note: I will not share publicly the data (images) I used for training my models. However, after data augmentation processes I can say that it was in the ballpark of around 20,000 - 30,000 images.`
+```
+Note:
+I will not share publicly the data (images) I used for training my models.
+However, after data augmentation processes I can say that it was in the ballpark of around 20,000 - 30,000 images.
+```
 
 ## Initial Plan
 
